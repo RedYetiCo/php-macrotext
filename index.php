@@ -54,4 +54,3 @@
 	<input type="text" name="q" value="<?php echo htmlspecialchars( @$_POST[ 'q' ] ); ?>">
 	<button type="submit">Write It!</button>
 </form>
-<hr/>
